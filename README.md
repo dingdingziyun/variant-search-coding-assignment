@@ -40,10 +40,10 @@ Here’s an example of how the web app looks like when you typing the gene name:
 ![search_gene_name_example](./search_gene_name.png)
 
 Here’s an example output of gene "CDKL5":
-![CDKL5_example_output](./CDKL5_output.png)
+![CDKL5_example_output](./CDKL5_output_1.png)
 
 Here's an example output that the table groups the same protein changes and Reported Classification together
-![Grouped_protein_change](./grouped_df.png)
+![Grouped_protein_change](./grouped_df_1.png)
 
 ## Future improvements
 1. Make interactive table, so user can sort table by click on the header. This function can be realized with "DataTable" in Dash. However, Datatable cannot adapt a column with hyperlinks. But this function can be realized refering to "https://stackoverflow.com/questions/32778648/how-to-display-a-hyperlink-in-a-cell-with-jquery-datatables"
