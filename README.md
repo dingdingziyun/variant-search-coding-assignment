@@ -32,7 +32,7 @@ python app.py
 ```
 4. Copy and paste the address to web browser
 
-
+## Example outputs
 
 Here’s an example of how the web app looks like when you typing the gene name:
 ![search_gene_name_example](./search_gene_name.png)
