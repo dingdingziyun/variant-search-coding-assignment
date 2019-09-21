@@ -4,6 +4,8 @@
 
 Create a web application that allows a user to search for genomic variants by gene name and display the results in a tabular view.
 
+## Deployed Web Server: http://ziyun-ding-variant-calling.herokuapp.com/
+
 ## Install
 
 Install dependencies:
