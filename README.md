@@ -48,4 +48,4 @@ Here's an example output that the table groups the same protein changes and Repo
 ## Future improvements
 1. Make interactive table, so user can sort table by click on the header. This function can be realized with "DataTable" in Dash. However, Datatable cannot adapt a column with hyperlinks. But this function can be realized refering to "https://stackoverflow.com/questions/32778648/how-to-display-a-hyperlink-in-a-cell-with-jquery-datatables"
 2. The data can be queried with PostgreSQL.
-3. Add a dropdown menu, so that the user can customize the columns to group the entries.
+3. Add a multi-selection dropdown, so that the user can group the entries by customized column names.
