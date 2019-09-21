@@ -46,3 +46,5 @@ Here's an example output that the table groups the same protein changes together
 ![Grouped_protein_change](./grouped_protein_change.png)
 
 ## Future improvements
+1. Make interactive table, so user can sort table by click on the header. This function can be realized with "DataTable" in Dash. However, Datatable cannot adapt a column with hyperlinks. But this function can be realized refering to "https://stackoverflow.com/questions/32778648/how-to-display-a-hyperlink-in-a-cell-with-jquery-datatables"
+2. The data can be queried with PostgreSQL.
