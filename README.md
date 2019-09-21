@@ -28,7 +28,7 @@ cd variant-search-coding-assignment
 ```
 unzip ./data/variants.tsv.zip
 ```
-3. Start server
+3. Run server at backend
 ```
 python app.py
 ```
